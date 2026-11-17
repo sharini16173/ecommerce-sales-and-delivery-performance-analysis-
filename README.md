@@ -1,4 +1,4 @@
-# Brazilian E-Commerce (Olist) SQL Data Analysis
+# E-commerce Sales And Delivery Performance Analysis
 
 **Dialect:** SQLite | **Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) | **Scope:** 15 Business SQL Queries across 100k+ Transactions
 
